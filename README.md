@@ -7,4 +7,6 @@ Task 0: Explorative data analysis
 Task 1: Market insights, leader and follower analysis, competitors automated pricing system detection
 Task 2: Product segmentation, popoularity index, ABC analysis
 
+Task 0 and 2 are performed in Python while task 2 is entirely carried out in Pyspask.
+
 PS: the csv files uploaded here on GitHub are reduced sample becouse they were very heavy. Dm me if you need the full datasets
