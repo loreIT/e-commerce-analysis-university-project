@@ -6,4 +6,3 @@ Code is splitted in different notebook as different lenguages and task were perf
 Task 0: Explorative data analysis
 Task 1: Market insights, leader and follower analysis, competitors automated pricing system detection
 Task 2: Product segmentation, popoularity index, ABC analysis
-
